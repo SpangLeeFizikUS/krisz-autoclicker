@@ -13,7 +13,7 @@ and when it's green the toggle-key is enabled.
 
 You can set the clicking rate with a slide. It shows the time between two clicks in seconds. 
 You don't have to disable the toggle-key to set it up (so you're able to
-change it even while do indicator is
+change it even while the indicator is
 green).
 
 At the bottom there is a caption showing your current toggle-key which is "ó" at default settings.
